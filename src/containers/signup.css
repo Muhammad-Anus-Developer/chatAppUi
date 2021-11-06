@@ -1,0 +1,22 @@
+.heading{
+    margin-top: 2.5%;
+    margin-bottom: 2%;
+}
+.line{
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.margining{
+    margin-left: 3%;
+}
+@media (max-width: 800px) {
+    body {
+      overflow-x: hidden;
+    }
+    .margining{
+        margin: 0;
+    }
+    .marginings{
+        margin: 0;
+    }
+  }
